@@ -1,2 +1,2 @@
-# Redistration-Page
+# Registration-Page
 Registration Form with Stopwatch in PHP
